@@ -1,4 +1,17 @@
 C
 this is the ubuntu test file!
 
+
+
+B
+B
+B
+B
+B
+B
+
+
 this is the first line !
+
+
+this is reset --hard  and add .
